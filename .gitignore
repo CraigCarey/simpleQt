@@ -1,0 +1,4 @@
+simpleQt
+.qmake.stash
+*.o
+Makefile
