@@ -4,7 +4,7 @@ project(simpleQt)
 
 set(CMAKE_CXX_STANDARD 14)
 
-set(CMAKE_PREFIX_PATH "/opt/qt/5.10.1/gcc_64/")
+set(CMAKE_PREFIX_PATH "/opt/qt/5.11.0/gcc_64/")
 
 # Find includes in corresponding build directories
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
